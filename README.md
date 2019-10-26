@@ -5,6 +5,8 @@ This project is a visualization of an A* search AI for a deterministic version o
 
 After downloading the files required for this program, open the `index.html` file through a localhost server. If your computer has Python 3, you should be able to run `python -m SimpleHTTPServer`, open `localhost:8000` in your browser and navigate to the `index.html` file. 
 
+If this isn't working for whatever reason, you can see the result of this program [here](https://editor.p5js.org/aknospe/present/qUQSDt3NK)
+
 ## Heuristic
 
 For a general search problem, the A* search algorithm chooses whichever node minimizes: 
